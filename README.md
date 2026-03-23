@@ -1,12 +1,7 @@
-## Hi, I'm Rohit 👋
+Rohit – Web Developer
 
-🎓 BCA Student
-💻 Learning Python, Data Structures and Web Development
-🚀 Interested in Backend Development
+I build fast, scalable, and production-ready web applications.
+From frontend to backend, I turn ideas into real products that work.
 
-Skills:
-Python
-HTML
-CSS
-JavaScript
-Git
+⚡ React • Node.js • Express • JavaScript
+💻 Clean code. Real projects. No shortcuts.
